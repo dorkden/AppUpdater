@@ -1,8 +1,8 @@
 
  
 {
-    "latestVersion": "1.1.4",
-    "latestVersionCode": "10",
+    "latestVersion": "1.1.5",
+    "latestVersionCode": "11",
     "url": "https://github.com/dorkden/AppUpdater/releases",
     "releaseNotes": [
         "- First evolution"
