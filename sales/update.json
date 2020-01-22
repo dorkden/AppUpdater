@@ -5,6 +5,7 @@
     "latestVersionCode": "11",
     "url": "https://github.com/dorkden/AppUpdater/releases",
     "releaseNotes": [
-        "- First evolution"
+     "- Fix location",
+     "- Add survey"
     ]
 }
