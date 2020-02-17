@@ -1,10 +1,10 @@
 
  
 {
-    "latestVersion": "1.1.7",
-    "latestVersionCode": "14",
+    "latestVersion": "1.1.8",
+    "latestVersionCode": "15",
     "url": "https://github.com/dorkden/AppUpdater/releases",
     "releaseNotes": [
-     "- Fix bugs"
+     "- Fix location"
     ]
 }
