@@ -3,7 +3,7 @@
     "latestVersionCode": "18",
     "url": "https://github.com/dorkden/AppUpdater/releases",
     "releaseNotes": [
-     "- Add currency format"
+     "- Add currency format",
      "- Fix bugs"
     ]
 }
