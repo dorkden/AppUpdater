@@ -3,7 +3,7 @@
     "latestVersionCode": "19",
     "url": "https://github.com/dorkden/AppUpdater/releases",
     "releaseNotes": [
-     "- Add currency format",
-     "- Fix bugs"
+     "- Add account receivable",
+     "- Add dealer payment"
     ]
 }
