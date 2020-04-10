@@ -1,6 +1,6 @@
 {
-    "latestVersion": "1.1.9",
-    "latestVersionCode": "18",
+    "latestVersion": "1.2.1",
+    "latestVersionCode": "19",
     "url": "https://github.com/dorkden/AppUpdater/releases",
     "releaseNotes": [
      "- Add currency format",
