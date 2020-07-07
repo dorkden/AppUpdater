@@ -1,9 +1,8 @@
 {
-    "latestVersion": "1.2.3",
-    "latestVersionCode": "21",
+    "latestVersion": "1.2.4",
+    "latestVersionCode": "23",
     "url": "https://github.com/dorkden/AppUpdater/releases",
     "releaseNotes": [
-     "- Fix: Survey",
-     "- Add: Product Request"
+     "- បន្តែមមុខងារលក់",
     ]
 }
