@@ -1,6 +1,6 @@
 {
-    "latestVersion": "1.2.5",
-    "latestVersionCode": "24",
+    "latestVersion": "1.2.6",
+    "latestVersionCode": "26",
     "url": "https://github.com/dorkden/AppUpdater/releases",
     "releaseNotes": [
      "- Fix: Sales Invoice"
