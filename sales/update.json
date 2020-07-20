@@ -1,8 +1,8 @@
 {
     "latestVersion": "1.2.6",
-    "latestVersionCode": "26",
+    "latestVersionCode": "28",
     "url": "https://github.com/dorkden/AppUpdater/releases",
     "releaseNotes": [
-     "- Add Product Return"
+     "- Fix Sales"
     ]
 }
