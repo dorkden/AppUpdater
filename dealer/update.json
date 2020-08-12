@@ -1,9 +1,8 @@
 {
-    "latestVersion": "1.1.4",
-    "latestVersionCode": "18",
+    "latestVersion": "1.1.5",
+    "latestVersionCode": "23",
     "url": "https://github.com/dorkden/AppUpdater/releases",
     "releaseNotes": [
-        "- Add claim request",
-        "- Improve app performance"
+        "បង្កើនប្រសិទ្ធភាព"
     ]
 }
