@@ -1,8 +1,7 @@
 {
     "latestVersion": "1.2.7",
-    "latestVersionCode": "31",
+    "latestVersionCode": "32",
     "url": "https://github.com/dorkden/AppUpdater/releases",
     "releaseNotes": [
-     "- បន្ថែមមុខងារ"
-    ]
+     "- Optimize performance"
 }
