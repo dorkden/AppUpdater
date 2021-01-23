@@ -3,6 +3,6 @@
     "latestVersionCode": "42",
     "url": "https://github.com/dorkden/AppUpdater/releases",
     "releaseNotes": [
-     "- Added Request Order"
+     "- Fixed slow scan"
      ]
 }
