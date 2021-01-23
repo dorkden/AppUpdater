@@ -1,6 +1,6 @@
 {
-    "latestVersion": "1.2.8",
-    "latestVersionCode": "40",
+    "latestVersion": "1.2.9",
+    "latestVersionCode": "42",
     "url": "https://github.com/dorkden/AppUpdater/releases",
     "releaseNotes": [
      "- Added Request Order"
