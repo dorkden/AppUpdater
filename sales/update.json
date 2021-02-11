@@ -1,8 +1,8 @@
 {
-    "latestVersion": "1.2.9",
-    "latestVersionCode": "42",
+    "latestVersion": "1.2.10",
+    "latestVersionCode": "43",
     "url": "https://github.com/dorkden/AppUpdater/releases",
     "releaseNotes": [
-     "- Fixed slow scan"
+     "- Fixed sales"
      ]
 }
