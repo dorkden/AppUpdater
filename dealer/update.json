@@ -1,8 +1,10 @@
 {
-    "latestVersion": "1.2.1",
-    "latestVersionCode": "33",
+    "latestVersion": "1.3.0",
+    "latestVersionCode": "35",
     "url": "https://github.com/dorkden/AppUpdater/releases",
     "releaseNotes": [
-        "ដោះស្រាយបញ្ហាស្កេនរង្វាន់"
+        "ប្តូរប្រាក់រង្វាន់ទៅជាសមតុល្យ",
+        "បន្ថែមមុខងារថ្មី ការផ្ញើប្រាក់, ទូទាត់ប្រូម៉ូសិន",
+        "បន្ថែមល្បឿនក្នុងការស្កេនលេខកូដ"
     ]
 }
