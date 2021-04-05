@@ -3,8 +3,6 @@
     "latestVersionCode": "37",
     "url": "https://github.com/dorkden/AppUpdater/releases",
     "releaseNotes": [
-        "- ប្តូរប្រាក់រង្វាន់ទៅជាសមតុល្យ",
-        "- បន្ថែមមុខងារថ្មី ការផ្ញើប្រាក់, ទូទាត់ប្រូម៉ូសិន",
-        "- បន្ថែមល្បឿនក្នុងការស្កេនលេខកូដ"
+        "Fixed barcode scanner"
     ]
 }
