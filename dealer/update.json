@@ -1,9 +1,8 @@
 {
-    "latestVersion": "1.3.5",
-    "latestVersionCode": "44",
+    "latestVersion": "1.3.7",
+    "latestVersionCode": "46",
     "url": "https://github.com/dorkden/AppUpdater/releases",
     "releaseNotes": [
-        "Update member user",
-        "Fix bug"
+        "Fix blank screen"
     ]
 }
