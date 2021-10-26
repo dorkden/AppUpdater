@@ -1,8 +1,8 @@
 {
-    "latestVersion": "1.3.7",
-    "latestVersionCode": "52",
-    "url": "https://github.com/dorkden/AppUpdater/releases",
-    "releaseNotes": [
-     "Update user login"
-     ]
+   "latestVersion":"1.3.7",
+   "latestVersionCode":"52",
+   "url":"https://github.com/dorkden/AppUpdater/releases",
+   "releaseNotes":[
+      "Update user login"
+   ]
 }
