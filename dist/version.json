@@ -1,9 +1,9 @@
 
 {
-    "latestVersion": "1.0.3",
-    "latestVersionCode": "15",
+    "latestVersion": "1.0.4",
+    "latestVersionCode": "16",
     "url": "https://github.com/dorkden/AppUpdater/releases",
     "releaseNotes": [
-     "First release"
+     "Update scan prize"
      ]
 }
