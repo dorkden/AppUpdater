@@ -1,8 +1,8 @@
 {
-    "latestVersion": "1.4.1",
-    "latestVersionCode": "50",
+    "latestVersion": "1.4.3",
+    "latestVersionCode": "55",
     "url": "https://github.com/dorkden/AppUpdater/releases",
     "releaseNotes": [
-        "បង្ហាញសន្លឹកឆ្នោតដែលមិនប្រក្រតី"
+        "Fix bug"
     ]
 }
