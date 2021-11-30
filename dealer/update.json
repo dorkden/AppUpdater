@@ -1,6 +1,6 @@
 {
-    "latestVersion": "1.4.3",
-    "latestVersionCode": "55",
+    "latestVersion": "1.4.4",
+    "latestVersionCode": "56",
     "url": "https://github.com/dorkden/AppUpdater/releases",
     "releaseNotes": [
         "Fix bug"
